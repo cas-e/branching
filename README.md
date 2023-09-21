@@ -11,3 +11,4 @@
 ## Branching commands
 * `git branch` - list local branches
 * `git branch -m newName` rename current branch
+* `git checkout branchName` switch to local branch
