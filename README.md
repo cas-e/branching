@@ -1,5 +1,11 @@
 # Git Cheat Sheet and Branching Practice
 
+STUFF ADDED ON new branch by some
+one else 
+
+STUUUUUFFFFF
+
+
 ## Basic commands
 * `git inti` - initialize local Git repo
 * `git add fileName` - stage changed file
