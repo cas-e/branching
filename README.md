@@ -7,3 +7,7 @@
 
 ## Info commands
 * `git status` - show status of working dir
+
+## Branching commands
+* `git branch` - list local branches
+* `git branch -m newName` rename current branch
